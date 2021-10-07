@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/headllines/hackernews/issues"
   },
-  "homepage": "https://github.com/headllines/hackernews#readme",
+  "homepage": "https://hackernews-daily.vercel.app",
   "dependencies": {
     "@octokit/auth-app": "^2.4.13",
     "@octokit/core": "^3.1.2",
